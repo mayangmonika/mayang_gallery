@@ -22,7 +22,7 @@ Untuk Fitur masih minim:
 
 ## Tampilan Website
 
-![Screenshot 2024-04-23 195658](https://github.com/mayangmonika/mayang_gallery/blob/main/public/1.jpeg4)
+![alt text](?raw=true)
 
 ![Screenshot 2024-04-23 195816](https://github.com/Wanzzy1/galeriwahdan2/assets/126433722/6347af6d-94c0-42ec-8a21-f26cd9153db5)
 
