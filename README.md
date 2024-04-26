@@ -24,14 +24,14 @@ Untuk Fitur masih minim:
 
 ![alt text](https://github.com/mayangmonika/mayang_gallery/blob/main/public/1.jpeg?raw=true)
 
-![alt text](https://github.com/mayangmonika/mayang_gallery/blob/main/public/1.jpeg?raw=true)
+![alt text](https://github.com/mayangmonika/mayang_gallery/blob/main/public/2.jpeg?raw=true)
 
-![alt text](https://github.com/mayangmonika/mayang_gallery/blob/main/public/1.jpeg?raw=true)
+![alt text](https://github.com/mayangmonika/mayang_gallery/blob/main/public/3.jpeg?raw=true)
 ## ERD, Relasi dan UML Use Case
 
 - ERD
 
-![ERD](https://github.com/Wanzzy1/galeriwahdan2/assets/126433722/6634f6ae-4e79-43d4-a4b3-44af1191048e)
+![alt text](https://github.com/mayangmonika/mayang_gallery/blob/main/public/4.jpeg?raw=true)
 
 - Relasi
 
