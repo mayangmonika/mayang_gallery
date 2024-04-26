@@ -35,11 +35,11 @@ Untuk Fitur masih minim:
 
 - Relasi
 
-![RELASI](https://github.com/Wanzzy1/galeriwahdan2/assets/126433722/71728000-c1e8-4da6-817e-d300652ad245)
+![alt text](https://github.com/mayangmonika/mayang_gallery/blob/main/public/4.jpeg?raw=true)
 
 - UML
 
-![UML](https://github.com/Wanzzy1/galeriwahdan2/assets/126433722/1b77e8dd-933c-4ac0-9413-0306769dd84b)
+![alt text](https://github.com/mayangmonika/mayang_gallery/blob/main/public/4.jpeg?raw=true)
 
 ## Prasyaratan
 
